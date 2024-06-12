@@ -941,6 +941,7 @@ flagged.
         "MCUMGR_GRP_EXAMPLE_OTHER_HOOK", # Used in documentation
         "MISSING",
         "MODULES",
+        "MPSL",
         "MYFEATURE",
         "MY_DRIVER_0",
         "NORMAL_SLEEP",  # #defined by RV32M1 in ext/
